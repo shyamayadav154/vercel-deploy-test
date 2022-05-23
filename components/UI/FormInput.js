@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default function formInput({ label,classLabel, type, name, id, ...props }) {
+export default function FormInput({ label,classLabel, type, name, id, ...props }) {
 
 
 

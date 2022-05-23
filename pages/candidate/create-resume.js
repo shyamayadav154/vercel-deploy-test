@@ -7,7 +7,7 @@ import Education from '../../components/data/Education';
 import Button from '../../components/UI/Button';
 import ExperienceForm from '../../components/data/Experience';
 import FormContainer from '../../components/UI/FormContainer';
-import FormInput from '../../components/UI/formInput';
+import FormInput from '../../components/UI/FormInput';
 import Miscellaneous from '../../components/data/Miscellaneous';
 import { useGlobalState } from '../../Global-State/globalContext';
 import Personal from '../../components/data/Personal';

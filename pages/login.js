@@ -7,7 +7,7 @@ import {
   signIn,
 } from 'next-auth/react';
 import { useState } from 'react';
-import FormInput from '../components/UI/formInput';
+import FormInput from '../components/UI/FormInput';
 import { motion } from 'framer-motion';
 import { useRouter } from 'next/router';
 import FormLoginProviders from '../components/UI/formLoginProviders';

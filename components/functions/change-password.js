@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import FormInput from '../UI/formInput';
+import FormInput from '../UI/FormInput';
 import FormContainer from '../UI/FormContainer';
 import Button from '../UI/Button';
 import { toast } from 'react-toastify';

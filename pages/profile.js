@@ -1,5 +1,5 @@
 import React,{useState} from 'react'
-import FormInput from '../components/UI/formInput';
+import FormInput from '../components/UI/FormInput';
 import LayoutEmp from '../components/Layout/LayoutEmp';
 
 export default function Profile() {

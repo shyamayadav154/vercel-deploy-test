@@ -6,7 +6,7 @@ import { toast } from 'react-toastify';
 import { useDebounce } from 'react-use';
 import Cropper from 'react-easy-crop';
 import { useGlobalState } from '../../Global-State/globalContext';
-import FormInput from '../UI/formInput';
+import FormInput from '../UI/FormInput';
 import { storage } from '../../config/firebaseConfig';
 import { getDownloadURL, ref, uploadBytesResumable } from 'firebase/storage';
 import { useResource } from '../../utils/useResource';

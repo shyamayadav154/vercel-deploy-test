@@ -9,7 +9,7 @@ import { updateData } from '../../utils/queries';
 import { yearRange } from '../../utils/uitls';
 import { useResource } from '../../utils/useResource';
 import Dropdown from '../UI/dropDown';
-import FormInput from '../UI/formInput';
+import FormInput from '../UI/FormInput';
 import ListBox from '../UI/ListBox';
 const url = process.env.NEXT_PUBLIC_BASE_URL;
 

@@ -1,5 +1,5 @@
 import React from 'react';
-import FormInput from '../UI/formInput';
+import FormInput from '../UI/FormInput';
 import { useState, useEffect,useMemo } from 'react';
 import axios from 'axios';
 import { useDebounce } from 'react-use';

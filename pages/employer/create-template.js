@@ -3,7 +3,7 @@ import { useSession } from 'next-auth/react';
 import React, { useState } from 'react';
 import LayoutEmp from '../../components/Layout/LayoutEmp';
 import Button from '../../components/UI/Button';
-import FormInput from '../../components/UI/formInput';
+import FormInput from '../../components/UI/FormInput';
 
 const initialData = {
   job_title: '',

@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useRouter } from 'next/router';
-        import FormInput from '../components/UI/formInput';
+        import FormInput from '../components/UI/FormInput';
 import Button from '../components/UI/Button';
 import { motion } from 'framer-motion';
 import FormContainer from '../components/UI/FormContainer';

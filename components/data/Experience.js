@@ -7,7 +7,7 @@ import { useDebounce } from 'react-use';
 import { useGlobalState } from '../../Global-State/globalContext';
 import { updateData } from '../../utils/queries';
 import Button from '../UI/Button';
-import FormInput from '../UI/formInput';
+import FormInput from '../UI/FormInput';
 const url = process.env.NEXT_PUBLIC_BASE_URL;
 
 export default function ExperienceForm({ data, deleteExp, handleExpCreate }) {
