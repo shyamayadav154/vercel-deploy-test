@@ -10,7 +10,7 @@ import { useState } from 'react';
 import FormInput from '../components/UI/FormInput';
 import { motion } from 'framer-motion';
 import { useRouter } from 'next/router';
-import FormLoginProviders from '../components/UI/formLoginProviders';
+import FormLoginProviders from '../components/UI/FormLoginProviders';
 import { useGlobalState } from '../Global-State/globalContext';
 import { toast } from 'react-toastify';
 // import {providers,csrfToken} from "next-auth/react"
