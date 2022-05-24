@@ -11,7 +11,7 @@ import { storage } from '../../config/firebaseConfig';
 import { getDownloadURL, ref, uploadBytesResumable } from 'firebase/storage';
 import { useResource } from '../../utils/useResource';
 import chalk from 'chalk';
-import Dropdown from '../UI/DropDown';
+import Dropdown from '../UI/Dropdown';
 import { createData, updateData } from '../../utils/queries';
 const noPreviewUrl = 'https://i.imgur.com/6SJarjX.png';
 const url = process.env.NEXT_PUBLIC_BASE_URL;
